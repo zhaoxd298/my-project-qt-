@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<led595>
+	<lightercfg>
+		<mode>1</mode>  								<!--亮度模式 1=手动，2=定时-->
+		<value>9</value>  
+	</lightercfg>
+</led595>

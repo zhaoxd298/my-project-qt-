@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<led595>
+	<panelcfg>
+		<funcopen>32</funcopen>
+		<panelid>110</panelid>
+		<width>128</width>
+		<height>128</height>
+		<colortype>3</colortype>
+		<hidetime>15</hidetime>
+		<freq>11.360000</freq>
+		<clkpwm>5</clkpwm>
+		<restart enable="0">24</restart>
+		<gamma>2.600000</gamma>
+		<grayscale>12</grayscale>
+	</panelcfg>
+	<crossscreen>
+		<enable>0</enable>
+		<recthorz>0,40,384,120</recthorz>
+		<rectver>96,0,288,160</rectver>
+	</crossscreen>
+</led595>

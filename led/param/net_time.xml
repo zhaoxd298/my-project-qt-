@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<led595>
+	<nettimesync>
+		<enable>1</enable> 					<!--网络自动校时使能-->
+		<interval>72</interval> 			<!--校时间隔(单位:小时)-->
+		<utc>-8</utc>						<!--时区,可以为正数，也可以为负数-->
+		<server>time.windows.com</server> 	<!--同步地址-->
+	</nettimesync>
+</led595>

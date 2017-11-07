@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding="utf-8"?>
+<led595>
+    <lancfg>
+        <localport>18199</localport>
+        <localip>192.168.1.252</localip>
+        <submask>255.255.255.0</submask>
+        <gateway>192.168.1.1</gateway>
+        <localmac update="0">00:00:00:00:00:00</localmac>
+        <dhcptopc>0</dhcptopc>
+        <autoip>1</autoip>
+        <worktype>0</worktype>
+    </lancfg>
+    <wancfg>
+        <devicename>TF-QC</devicename>
+        <remoteport>6500</remoteport>
+        <remoteaddr>192.168.0.1</remoteaddr>
+        <dns>8.8.8.8</dns>
+        <apn>CMNET</apn>
+        <protocol>0</protocol>
+        <heartinterval>40</heartinterval>
+        <imei/>
+    </wancfg>
+</led595>
